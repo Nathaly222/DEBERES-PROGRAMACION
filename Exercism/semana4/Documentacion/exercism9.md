@@ -32,4 +32,3 @@ rollDice(quantity: number) y rollDie():
 Estos métodos privados estánticos son utilizados por generateAbilityScore() para simular el lanzamiento de dados:
 rollDie(): Lanza un dado de 6 caras y devuelve el resultado.
 rollDice(quantity: number): Lanza una cantidad especificada de dados y devuelve un array con los resultados.
-[MiWeb](https://youtu.be/vjqHDaKDbxM)
